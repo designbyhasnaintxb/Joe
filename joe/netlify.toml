@@ -1,4 +1,4 @@
-# Netlify settings for Coach Sean Leyva's pickleball coaching site (plain static site — no build step)
+# Netlify settings for Joe Borzello's pickleball coaching site (plain static site — no build step)
 [build]
   publish = "."
 
